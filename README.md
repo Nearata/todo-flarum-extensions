@@ -1,0 +1,41 @@
+# TODO
+
+- [ ] top-contributors
+- [ ] export-post-as-pdf
+- [ ] mroonga
+- [ ] deepl
+- [ ] donations (like IPB Donations)
+- [ ] pomfe (like catbox)
+- [ ] database-queue
+- [ ] database-cache
+- [ ] streaming
+- [ ] grammarly
+- [ ] minecraft-store (like buycraft)
+- [ ] pdf-viewer
+- [ ] d3js
+- [x] directory-listing (https://github.com/Nearata/flarum-ext-directory-listing)
+- [ ] downloads (like ipb.downloads file sharing)
+- [ ] graphql
+- [ ] custom-paths
+- [ ] link-preview (like telegram)
+- [ ] search-as-icon
+- [x] websocket (https://github.com/Nearata/flarum-ext-websocket)
+- [ ] backups
+- [ ] footnotes
+- [ ] assign (like github)
+- [ ] krypton mfa (https://krypt.co/)
+- [ ] post-diff (no rollbacks)
+- [ ] flags-page (flarum-flags page to paginate flags, performance enhancement)
+- [ ] virustotal (why, no reason yet)
+- [ ] group-list
+- [ ] private-forum
+- [ ] always-on-extensions (like wordpress)
+- [ ] audit-log
+- [ ] payments (https://github.com/thephpleague/omnipay)
+- [ ] private-messages
+- [ ] custom-loading-indicator (allow emojis, multiple indicators, randomized)
+- [ ] date-format-choice (global or user preference)
+- [ ] filesystem-gui
+- [ ] import-users-from-csv
+- [ ] discord-sync
+- [x] avatar-gif (https://github.com/Nearata/flarum-ext-gif-avatars)
